@@ -21,4 +21,7 @@
     <data name="Program_Main_Hello_World" xml:space="preserve">
         <value>Hello World!</value>
     </data>
+    <data name="Program_Main_Hello_World" xml:space="preserve">
+        <value>Hello World!</value>
+    </data>
 </root>
