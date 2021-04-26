@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <MSBuildWarningsAsErrors>MSB3568</MSBuildWarningsAsErrors>
   </PropertyGroup>
 
   <ItemGroup>
